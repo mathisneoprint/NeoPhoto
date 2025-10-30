@@ -1,0 +1,72 @@
+﻿{
+    "duo":  {
+                "greek":  [
+                              "black-matte.webp",
+                              "gray-matte.webp",
+                              "marble-blue.webp",
+                              "marble-gray.webp",
+                              "marble-white.webp",
+                              "onyx-green.webp",
+                              "onyx-red.webp",
+                              "onyx-white.webp",
+                              "white-matte.webp"
+                          ],
+                "hexa":  [
+                             "black-matte.webp",
+                             "gray-matte.webp",
+                             "marble-blue.webp",
+                             "marble-gray.webp",
+                             "marble-white.webp",
+                             "onyx-green.webp",
+                             "onyx-red.webp",
+                             "onyx-white.webp",
+                             "white-matte.webp"
+                         ],
+                "round":  [
+                              "black-matte.webp",
+                              "gray-matte.webp",
+                              "marble-blue.webp",
+                              "marble-gray.webp",
+                              "marble-white.webp",
+                              "onyx-green.webp",
+                              "onyx-red.webp",
+                              "onyx-white.webp",
+                              "white-matte.webp"
+                          ]
+            },
+    "solo":  {
+                 "greek":  [
+                               "black-matte.webp",
+                               "gray-matte.webp",
+                               "marble-blue.webp",
+                               "marble-gray.webp",
+                               "marble-white.webp",
+                               "onyx-green.webp",
+                               "onyx-red.webp",
+                               "onyx-white.webp",
+                               "white-matte.webp"
+                           ],
+                 "hexa":  [
+                              "black-matte.webp",
+                              "gray-matte.webp",
+                              "marble-blue.webp",
+                              "marble-gray.webp",
+                              "marble-white.webp",
+                              "onyx-green.webp",
+                              "onyx-red.webp",
+                              "onyx-white.webp",
+                              "white-matte.webp"
+                          ],
+                 "round":  [
+                               "black-matte.webp",
+                               "gray-matte.webp",
+                               "marble-blue.webp",
+                               "marble-gray.webp",
+                               "marble-white.webp",
+                               "onyx-green.webp",
+                               "onyx-red.webp",
+                               "onyx-white.webp",
+                               "white-matte.webp"
+                           ]
+             }
+}
